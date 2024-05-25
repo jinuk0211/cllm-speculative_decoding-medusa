@@ -6,3 +6,4 @@
 ![image](https://github.com/jinuk0211/cllm-speculative_decoding-medusa/assets/150532431/a6ec33c6-a7c6-41f2-bbd8-c4e70bbbfbb0)
 ![image](https://github.com/jinuk0211/cllm-speculative_decoding-medusa/assets/150532431/d24beeee-8e23-4f75-8d98-edc3a02d6b93)
 ![image](https://github.com/jinuk0211/cllm-speculative_decoding-medusa/assets/150532431/59176606-5ee0-44de-b0d2-cbd8f4d1cfe2)
+![image](https://github.com/jinuk0211/cllm-speculative_decoding-medusa/assets/150532431/b7c30737-d495-4905-8c3e-f2694ca779a2)
